@@ -1,5 +1,3 @@
 # CryptoWith_python
-this repository is where I place my Cryptography codes.
-in the first place i make this account for an activity for Cryptography whis python cource in AOU
-But i will use this account for Future projects 
-for know this repository will have one crypto code and i will work on aother cyphers in the Future
+This repository serves as the storage space for my Cryptography codes. Initially created for a Cryptography activity within a Python course at AOU, this account will now be utilized for future projects.
+with plans to explore and work on additional ciphers in the future.
